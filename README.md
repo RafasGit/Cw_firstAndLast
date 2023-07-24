@@ -1,0 +1,1 @@
+We remove the first and last character from a string
